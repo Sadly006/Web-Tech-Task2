@@ -1,0 +1,5 @@
+Django < 4.0.0
+djangorestframework>=3.12.4,<3.13.0
+django-cors-headers
+django-crispy-forms
+pillow
